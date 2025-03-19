@@ -1,4 +1,4 @@
-Curso: Análise e Desenvolvimento de Sistemas
-Disciplina: Desenvolvimento Front-End 2
-Atividade avaliativa III
-Aluno: Helder Alves Tosta
+Curso: Análise e Desenvolvimento de Sistemas <br>
+Disciplina: Desenvolvimento Front-End 2 <br>
+Atividade avaliativa III <br>
+Aluno: Helder Alves Tosta <br>
