@@ -1,0 +1,37 @@
+.card {
+    width: 200px;
+    padding: 20px;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    text-align: center;
+    transition: transform 0.2s;
+  }
+  
+  .card:hover {
+    transform: scale(1.05);
+  }
+  
+  .approved {
+    background-color: #d4edda;
+    border: 2px solid #28a745;
+  }
+  
+  .rejected {
+    background-color: #f8d7da;
+    border: 2px solid #dc3545;
+  }
+  
+  .card h2 {
+    margin: 0 0 10px;
+    font-size: 1.2em;
+    color: #333;
+  }
+  
+  .card p {
+    margin: 0;
+    color: #666;
+  }
+  
+  .status-text {
+    font-weight: bold;
+  }
